@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/1148-article-views-i) |
 | [1280-students-and-examinations](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/1683-invalid-tweets) |
 ## Math
 |  |
