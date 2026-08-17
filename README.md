@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -54,8 +56,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
