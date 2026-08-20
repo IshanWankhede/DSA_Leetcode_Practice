@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0169-majority-element) |
 ## Trie
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/0137-single-number-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
