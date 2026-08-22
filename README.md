@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/1729-find-followers-count) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/IshanWankhede/DSA_Leetcode_Practice/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Math
 |  |
 | ------- |
